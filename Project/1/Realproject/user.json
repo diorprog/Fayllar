@@ -1,0 +1,30 @@
+[
+   {
+      "fullname": "foziljon",
+      "email": "imonqulov@gmail.com",
+      "password": "fozil123",
+      "role": "1",
+      "username": "foziljon"
+   },
+   {
+      "fullname": "foziljon123",
+      "email": "foziljon1234",
+      "password": "ff1234",
+      "role": "2",
+      "username": "imonqulov"
+   },
+   {
+      "fullname": "foziljonImonqulov",
+      "email": "imonqulov123",
+      "password": "4152",
+      "role": "2",
+      "username": "foz123"
+   },
+   {
+      "fullname": "foziljon imonqulov",
+      "email": "imonqulovf@gmail.com",
+      "password": "foziljon3210",
+      "role": "2",
+      "username": "foziljon1"
+   }
+]
