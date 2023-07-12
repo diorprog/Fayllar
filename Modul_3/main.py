@@ -118,17 +118,7 @@
 
 
 
-def maximumValue(strs):
-    max_value = 0
 
-    for string in strs:
-        if string.isdigit():
-            max_value = max(max_value, int(string))
-        else:
-            max_value = max(max_value, len(string))
 
     return max_value
 
-
-s=['0000','alic3','bob','3','4']
-print(maximumValue(s))

@@ -1,0 +1,27 @@
+1. https://leetcode.com/problems/find-target-indices-after-sorting-array/
+class Solution:
+    def targetIndices(self, nums, target):
+        arr = []
+        n = sorted(nums)
+
+        for i in range(len(n)):
+            if n[i] == target:
+                arr.append(i)
+
+        return arr
+
+2.  https://leetcode.com/problems/duplicate-zeros/
+
+class Solution:
+    def duplicateZeros(self, arr):
+        i = 0
+        n = len(arr)
+
+        while i < n:
+            if arr[i] == 0:
+                arr.insert(i + 1, 0)
+                del arr[-1]
+                i += 1
+            i += 1
+
+3.   
