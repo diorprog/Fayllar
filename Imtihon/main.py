@@ -1,0 +1,117 @@
+#     1. https://leetcode.com/problems/find-target-indices-after-sorting-array/
+# class Solution:
+#     def targetIndices(self, nums, target):
+#         arr = []
+#         n = sorted(nums)
+#
+#         for i in range(len(n)):
+#             if n[i] == target:
+#                 arr.append(i)
+#
+#         return arr
+#
+#     2.  https://leetcode.com/problems/duplicate-zeros/
+#
+# class Solution:
+#     def duplicateZeros(self, arr):
+#         i = 0
+#         n = len(arr)
+#
+#         while i < n:
+#             if arr[i] == 0:
+#                 arr.insert(i + 1, 0)
+#                 del arr[-1]
+#                 i += 1
+#             i += 1
+#
+#     4.
+#
+#
+# import os
+# arr=[]
+# n=int(input('Nechta fayl kiritasiz: '))
+# print('(test1.py , test2.py , test.py , t3.py , test1.py)')
+# for i in range(n):
+#     s=input(f'{i+1}=')
+#     arr.append(s)
+#
+# for i in arr:
+#     path = '.. P14'
+#
+#     try:
+#         os.mkdir(path)
+#     except OSError as error:
+#         print(error)
+#
+#     fp = open(f'.. P14\ {i}', 'x')
+#     fp.close()
+#
+#     with open(f'.. P14\ {i}', 'w') as fp:
+#         fp.write(f'print("Hello {i}")')
+
+
+5.
+
+
+import smtplib
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.mime.base import MIMEBase
+from email import encoders
+
+fromaddr = "diyorbekdilmurodov1@gmail.com"
+toaddr = "Adilshod3234@gmail.com"
+
+# instance of MIMEMultipart
+msg = MIMEMultipart()
+
+# storing the senders email address
+msg['From'] = fromaddr
+
+# storing the receivers email address
+msg['To'] = toaddr
+
+# storing the subject
+msg['Subject'] = "Subject of the Mail"
+
+# string to store the body of the mail
+body = "Body_of_the_mail"
+
+# attach the body with the msg instance
+msg.attach(MIMEText(body, 'plain'))
+
+# open the file to be sent
+filename = "P14 Diyorbek Dilmurodov txt"
+attachment = open("D:\Python\Imtihon\P14 imtihon Diyorbek Dilmurodov.txt", "rb")
+
+# instance of MIMEBase and named as p
+p = MIMEBase('application', 'octet-stream')
+
+# To change the payload into encoded form
+p.set_payload((attachment).read())
+
+# encode into base64
+encoders.encode_base64(p)
+
+p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+# attach the instance 'p' to instance 'msg'
+msg.attach(p)
+
+# creates SMTP session
+s = smtplib.SMTP('smtp.gmail.com', 587)
+
+# start TLS for security
+s.starttls()
+
+# Authentication
+s.login(fromaddr, "lapwnmmecvxrakiy")
+
+# Converts the Multipart msg into a string
+text = msg.as_string()
+
+# sending the mail
+s.sendmail(fromaddr, toaddr, text)
+
+# terminating the session
+s.quit()
