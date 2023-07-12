@@ -117,8 +117,47 @@
 #
 
 
+#
+# def maximumValue(strs):
+#     max_value = 0
+#
+#     for string in strs:
+#         if string.isdigit():
+#             max_value = max(max_value, int(string))
+#         else:
+#             max_value = max(max_value, len(string))
+#
+#     return max_value
+#
+#
+# s=['0000','alic3','bob','3','4']
+# print(maximumValue(s))
 
 
 
-    return max_value
+#
 
+
+
+# import os
+
+# while True:
+#     current_dir = os.getcwd()
+#     command = input(current_dir + "$ ").split()
+#     match command[0]:
+#         case "cd":
+#             os.chdir(command[1])
+
+#
+
+
+
+#
+
+import os
+
+c=0
+for i in os.listdir():
+    if os.path.isfile():
+        c+=1
+print(c)
