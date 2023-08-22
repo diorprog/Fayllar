@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db95ff4c-e02a-428e-9bca-e01a64ec58f9" name="Changes" comment="Mudul">
+    <list default="true" id="db95ff4c-e02a-428e-9bca-e01a64ec58f9" name="Changes" comment="change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul_5/Translate/translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_5/Translate/translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul_5/Translate/words.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +37,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.tabs",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.translate">
     <configuration name="8_3_multiprocessing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
@@ -240,7 +238,10 @@
       <workItem from="1692670471285" duration="44000" />
       <workItem from="1692670637141" duration="1149000" />
       <workItem from="1692671970576" duration="1129000" />
-      <workItem from="1692673261198" duration="20266000" />
+      <workItem from="1692673261198" duration="20579000" />
+      <workItem from="1692708778962" duration="1155000" />
+      <workItem from="1692709993429" duration="118000" />
+      <workItem from="1692743517159" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1689143786403</created>
@@ -279,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692671313979</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change">
+      <option name="closed" value="true" />
+      <created>1692708738965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692708738965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,14 +310,15 @@
     <MESSAGE value="Imtihon 12.07.2023" />
     <MESSAGE value="asd" />
     <MESSAGE value="Mudul" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mudul" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/vazifa1_py$9_os.coverage" NAME="9_os Coverage Results" MODIFIED="1688968073394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="vazifa1 Coverage Results" MODIFIED="1687007443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
     <SUITE FILE_PATH="coverage/Python$vazifa1.coverage" NAME="3_data_time Coverage Results" MODIFIED="1687155984976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
     <SUITE FILE_PATH="coverage/vazifa1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1688972321557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
-    <SUITE FILE_PATH="coverage/Fayllar$translate.coverage" NAME="translate Coverage Results" MODIFIED="1692708444950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Translate" />
+    <SUITE FILE_PATH="coverage/Fayllar$translate.coverage" NAME="translate Coverage Results" MODIFIED="1692710001607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Translate" />
     <SUITE FILE_PATH="coverage/vazifa1_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1689143208311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imtihon" />
     <SUITE FILE_PATH="coverage/vazifa1_py$Leetcode_array.coverage" NAME="email_ Coverage Results" MODIFIED="1687761122686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3/Emailga xabar yuborish" />
     <SUITE FILE_PATH="coverage/vazifa1_py$Vazifa2.coverage" NAME="Vazifa2 Coverage Results" MODIFIED="1687243517848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
