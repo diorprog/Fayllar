@@ -1,0 +1,11 @@
+3 module plan :
+    date , time
+    sqlite
+    pip & env
+    email
+    bcrypt
+    git hub
+    Async
+    path
+    os
+    import
