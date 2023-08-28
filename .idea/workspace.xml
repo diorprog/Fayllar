@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db95ff4c-e02a-428e-9bca-e01a64ec58f9" name="Changes" comment="change">
-      <change afterPath="$PROJECT_DIR$/Modul_5/AI_bot_grouplar_un_sozlashuvchi/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/AI_bot_grouplar_un_sozlashuvchi/imp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/Bolakay_chat_bot/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/Bolakay_chat_bot/imp.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/1/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/1/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/1/req.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/2/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/2/req.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/3/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/3/req.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars5/simple_bot/req.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modul_5/dars6/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/USB_FORMAT.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Fayllar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fayllar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul_5/AI_bot_grouplar_un_sozlashuvchi/sozla.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_5/AI_bot_grouplar_un_sozlashuvchi/sozla.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,26 +40,28 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2QS3gGAfvS6rqt79cmFFqBsDeV1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dior_prog/PycharmProjects/Fayllar&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/dior_prog/PycharmProjects/Fayllar/Modul_5/dars7/MathBot/venv",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/3" />
@@ -286,6 +270,12 @@
       <workItem from="1692761963803" duration="691000" />
       <workItem from="1692762730416" duration="3888000" />
       <workItem from="1692772234158" duration="628000" />
+      <workItem from="1693056827541" duration="16000" />
+      <workItem from="1693058809526" duration="395000" />
+      <workItem from="1693060528864" duration="252000" />
+      <workItem from="1693087876351" duration="657000" />
+      <workItem from="1693088792232" duration="215000" />
+      <workItem from="1693089019173" duration="554000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1689143786403</created>
