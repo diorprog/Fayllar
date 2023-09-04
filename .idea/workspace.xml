@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/Fayllar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fayllar.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modul_5/Translate/translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_5/Translate/translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/USB_FORMAT.py" beforeDir="false" afterPath="$PROJECT_DIR$/USB_FORMAT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file:///etc/sudoers" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -53,13 +58,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dior_prog/PycharmProjects/Fayllar/Modul_5/dars7/MathBot/venv&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dior_prog/PycharmProjects/Fayllar&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -72,27 +82,11 @@
       <recent name="$PROJECT_DIR$/Modul_5/dars5/simple_bot" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.USB_FORMAT">
-    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fayllar" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars1/111.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="Python.dispatcher (1)">
+    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Modul_5/dars9/MathBot/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
       <method v="2" />
     </configuration>
     <configuration name="8_3_multiprocessing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -117,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="USB_FORMAT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dispatcher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +119,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USB_FORMAT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/dispatcher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dispatcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +141,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars5/simple_bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars5/simple_bot/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot/dispatcher.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="translate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/Translate" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/Translate/translate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,19 +177,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get-docker.sh" type="ShConfigurationType" temporary="true">
-      <option name="SCRIPT_TEXT" value="" />
-      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
-      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/get-docker.sh" />
-      <option name="SCRIPT_OPTIONS" value="" />
-      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
-      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container" />
-      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
-      <option name="INTERPRETER_PATH" value="/bin/sh" />
+    <configuration name="test_handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="EXECUTE_IN_TERMINAL" value="true" />
-      <option name="EXECUTE_SCRIPT_FILE" value="true" />
-      <envs />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers/test_handler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="simple_bot/Dockerfile" type="docker-deploy" factoryName="dockerfile">
@@ -208,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.USB_FORMAT" />
-        <item itemvalue="Shell Script.get-docker.sh" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.111" />
-        <item itemvalue="Python.translate" />
+        <item itemvalue="Python.dispatcher (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Makefile Target.Makefile" />
+        <item itemvalue="Python.test_handler" />
+        <item itemvalue="Python.dispatcher" />
       </list>
     </recent_temporary>
   </component>
@@ -276,6 +277,18 @@
       <workItem from="1693087876351" duration="657000" />
       <workItem from="1693088792232" duration="215000" />
       <workItem from="1693089019173" duration="554000" />
+      <workItem from="1693195759640" duration="1676000" />
+      <workItem from="1693198468203" duration="4316000" />
+      <workItem from="1693204226758" duration="3282000" />
+      <workItem from="1693302984553" duration="468000" />
+      <workItem from="1693347785567" duration="9407000" />
+      <workItem from="1693357775447" duration="69000" />
+      <workItem from="1693365427427" duration="3198000" />
+      <workItem from="1693370519847" duration="5850000" />
+      <workItem from="1693455953823" duration="703000" />
+      <workItem from="1693783478271" duration="861000" />
+      <workItem from="1693784412785" duration="452000" />
+      <workItem from="1693784948499" duration="1253000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1689143786403</created>
@@ -330,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692744157785</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change">
+      <option name="closed" value="true" />
+      <created>1693195872318</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693195872318</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,17 +377,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/vazifa1_py$9_os.coverage" NAME="9_os Coverage Results" MODIFIED="1688968073394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
-    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="vazifa1 Coverage Results" MODIFIED="1687007443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$dispatcher.coverage" NAME="dispatcher Coverage Results" MODIFIED="1693784216450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$test_handler.coverage" NAME="test_handler Coverage Results" MODIFIED="1693785214862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers" />
+    <SUITE FILE_PATH="coverage/Fayllar$util.coverage" NAME="util Coverage Results" MODIFIED="1693783952388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/utils" />
     <SUITE FILE_PATH="coverage/Python$vazifa1.coverage" NAME="3_data_time Coverage Results" MODIFIED="1687155984976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$redis_.coverage" NAME="redis_ Coverage Results" MODIFIED="1693354252752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars8/redis_" />
+    <SUITE FILE_PATH="coverage/Fayllar$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1693376929190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/send_email" />
+    <SUITE FILE_PATH="coverage/Fayllar$task.coverage" NAME="task Coverage Results" MODIFIED="1693373837049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_" />
+    <SUITE FILE_PATH="coverage/Fayllar$translate.coverage" NAME="translate Coverage Results" MODIFIED="1693357285073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Translate" />
+    <SUITE FILE_PATH="coverage/vazifa1_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1689143208311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imtihon" />
+    <SUITE FILE_PATH="coverage/vazifa1_py$Leetcode_array.coverage" NAME="email_ Coverage Results" MODIFIED="1687761122686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3/Emailga xabar yuborish" />
+    <SUITE FILE_PATH="coverage/Fayllar$main.coverage" NAME="main Coverage Results" MODIFIED="1693786065532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot" />
+    <SUITE FILE_PATH="coverage/vazifa1_py$9_os.coverage" NAME="9_os Coverage Results" MODIFIED="1688968073394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1693374733191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_" />
+    <SUITE FILE_PATH="coverage/Fayllar$dispatcher__1_.coverage" NAME="dispatcher (1) Coverage Results" MODIFIED="1693786196347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot" />
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="vazifa1 Coverage Results" MODIFIED="1687007443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$Vmain.coverage" NAME="Vmain Coverage Results" MODIFIED="1693368016874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars8" />
     <SUITE FILE_PATH="coverage/Fayllar$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1692746171207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars5/simple_bot" />
     <SUITE FILE_PATH="coverage/vazifa1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1688972321557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$videobot.coverage" NAME="videobot Coverage Results" MODIFIED="1693456450665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fayllar$111.coverage" NAME="111 Coverage Results" MODIFIED="1692746125391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars1" />
-    <SUITE FILE_PATH="coverage/Fayllar$translate.coverage" NAME="translate Coverage Results" MODIFIED="1692710001607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Translate" />
-    <SUITE FILE_PATH="coverage/vazifa1_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1689143208311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imtihon" />
-    <SUITE FILE_PATH="coverage/Fayllar$USB_FORMAT.coverage" NAME="USB_FORMAT Coverage Results" MODIFIED="1692772288788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/vazifa1_py$Leetcode_array.coverage" NAME="email_ Coverage Results" MODIFIED="1687761122686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3/Emailga xabar yuborish" />
+    <SUITE FILE_PATH="coverage/Fayllar$USB_FORMAT.coverage" NAME="USB_FORMAT Coverage Results" MODIFIED="1693201774856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vazifa1_py$Vazifa2.coverage" NAME="Vazifa2 Coverage Results" MODIFIED="1687243517848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
-    <SUITE FILE_PATH="coverage/Fayllar$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1692672169759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/daryo_uz" />
+    <SUITE FILE_PATH="coverage/Fayllar$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1693376942862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/send_email" />
   </component>
 </project>

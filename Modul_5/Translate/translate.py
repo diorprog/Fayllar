@@ -122,16 +122,20 @@
 
 
 
-
 import logging
-from aiogram import Bot, Dispatcher, types, executor
+from aiogram import Bot, types
+from aiogram.dispatcher import Dispatcher
+from aiogram.utils import executor
 from googletrans import Translator
+
 
 logging.basicConfig(level=logging.INFO)
 
 BOT_TOKEN = "6357742300:AAFp8yUNJA1LTArfUBFdUKL6jWKFLxnyi5s"
 
-bot = Bot(token=BOT_TOKEN)
+P = "http://proxy.server:3128"
+
+bot = Bot(token=BOT_TOKEN, proxy=P)
 dp = Dispatcher(bot)
 
 translator = Translator()
@@ -142,7 +146,7 @@ language_keyboard.add(types.KeyboardButton("English"))
 language_keyboard.add(types.KeyboardButton("Russian"))
 language_keyboard.add(types.KeyboardButton("Turkish"))
 
-translation_state = {}  # Store translation state for each user
+translation_state = {}
 
 @dp.message_handler(commands=['start'])
 async def start_handler(message: types.Message):
@@ -192,4 +196,3 @@ async def handle_text_input(message: types.Message):
 if __name__ == '__main__':
     from aiogram import executor
     executor.start_polling(dp, skip_updates=True)
-
