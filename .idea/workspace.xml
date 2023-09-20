@@ -5,10 +5,314 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db95ff4c-e02a-428e-9bca-e01a64ec58f9" name="Changes" comment="change">
-      <change beforePath="$PROJECT_DIR$/.idea/Fayllar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fayllar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/details-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/anime/review-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/blog-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/bd-item-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/bd-item-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/bd-item-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/blog-details-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/comment-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/comment-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/blog/details/comment-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/hero/hero-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/live/live-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/normal-breadcrumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/popular/popular-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/recent/recent-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/comment-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/comment-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/comment-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/comment-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/tv-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/tv-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/tv-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/tv-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/sidebar/tv-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/trending/trend-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/trending/trend-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/trending/trend-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/trending/trend-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/media/trending/trend-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/OwlCarousel2-2.3.4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/SlickNav-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/bootstrap-4.4.1-dist.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/elegant_font.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/font-awesome-4.7.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/jquery-nice-select-1.1.0.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/plyr-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/Source/sass.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/elegant-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/slicknav.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/ElegantIcons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/ElegantIcons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/ElegantIcons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/ElegantIcons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/details-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/anime/review-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/blog-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/bd-item-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/bd-item-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/bd-item-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/blog-details-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/comment-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/comment-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/blog/details/comment-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/hero/hero-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/live/live-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/normal-breadcrumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/popular/popular-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/recent/recent-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/comment-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/comment-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/comment-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/comment-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/tv-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/tv-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/tv-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/tv-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/sidebar/tv-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/img/trending/trend-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/jquery.slicknav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/mixitup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/js/player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_anime-details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_anime-watching.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_blog-details.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_login.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_signup.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/_variable.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/videos/1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/static/videos/anime-watch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/anime-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/anime-watching.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/blog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Project/1/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Modul_5/Translate/translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modul_5/Translate/translate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/Beautiful_Soup/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/Beautiful_Soup/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz/tg_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz/tg_bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/kundalik_com/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/kundalik_com/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/OnlineShop/UI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/OnlineShop/db/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/OnlineShop/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/TODO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/UnversalDB/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/UnversalDB/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/UnversalDB/test.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/parking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/parking_db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/parking/sqlite3_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/addition/test.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/leetcode/array/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/TODO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_10/lesson.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_10/os_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_10/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_10/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/home_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/home_work.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/qavat_decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_3/users.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_4/connect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_4/lesson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject/db.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject/library_db.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/LibraryProject/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/lesson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_5/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_6/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/email_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/home_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/lesson.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_7/request_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_8/lesson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_8/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_9/home_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_9/lesson.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_9/multiprocess.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_9/thread_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/lesson_9/uuid_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/prizintatsiya" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_3/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/exam/exam_questions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_0/main1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_0/main2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_0/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_2/home_work.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_2/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_3/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_4/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_4/lesson3_query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_4/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_5/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_5/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_5/query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_6/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_6/query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_7/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_7/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_7/query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_8/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_8/query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_9/function_query.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_9/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_9/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/lesson_9/user.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_4/DB/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/simple_bot/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/simple_bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/docker_/lesson_5/simple_bot/req.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_1/buttons/inline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_1/buttons/reply.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_1/lesson_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_1/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/edit_massage/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/phone/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/state/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_2/state/main_class_v.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_3/AI_bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_3/Mafia/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_3/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_3/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_3/qorovul_bot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/Beautiful_Soup/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/daryo_uz/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/daryo_uz/tg_bot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/kundalik_com/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/lesson_4/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/module_5/tg_bot/plan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dilshod_aka/p14group-master/test.sqlite" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/USB_FORMAT.py" beforeDir="false" afterPath="$PROJECT_DIR$/USB_FORMAT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +329,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Modul_5/fitnes_bot" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -58,12 +362,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/dior_prog/PycharmProjects/Fayllar&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/dior_prog/PycharmProjects/Fayllar/Real_Project/1&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -79,16 +383,11 @@
       <recent name="$PROJECT_DIR$/Modul_5/dars5/simple_bot/Vazifa_container/1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Modul_5/dars10_11/ORM/dars10" />
       <recent name="$PROJECT_DIR$/Modul_5/dars5/simple_bot" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dispatcher (1)">
-    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
-      <makefile filename="$PROJECT_DIR$/Modul_5/dars9/MathBot/Makefile" target="" workingDirectory="" arguments="">
-        <envs />
-      </makefile>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Docker.fitnes_bot/Dockerfile">
     <configuration name="8_3_multiprocessing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,7 +410,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dispatcher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +418,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/kundalik_com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/dispatcher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/kundalik_com/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +432,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dispatcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +440,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/fitnes_bot" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot/dispatcher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/fitnes_bot/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +454,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,12 +462,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/Beautiful_Soup" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/Beautiful_Soup/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +476,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_handler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tg_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fayllar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,18 +484,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers/test_handler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz/tg_bot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fitnes_bot/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Modul_5/fitnes_bot/Dockerfile" />
+        </settings>
+      </deployment>
       <method v="2" />
     </configuration>
     <configuration name="simple_bot/Dockerfile" type="docker-deploy" factoryName="dockerfile">
@@ -209,11 +516,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dispatcher (1)" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Makefile Target.Makefile" />
-        <item itemvalue="Python.test_handler" />
-        <item itemvalue="Python.dispatcher" />
+        <item itemvalue="Docker.fitnes_bot/Dockerfile" />
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.tg_bot" />
+        <item itemvalue="Python.main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +596,25 @@
       <workItem from="1693783478271" duration="861000" />
       <workItem from="1693784412785" duration="452000" />
       <workItem from="1693784948499" duration="1253000" />
+      <workItem from="1693798586962" duration="2104000" />
+      <workItem from="1693801765484" duration="1306000" />
+      <workItem from="1693803079574" duration="5413000" />
+      <workItem from="1693811488366" duration="767000" />
+      <workItem from="1693953410902" duration="396000" />
+      <workItem from="1693976202248" duration="7845000" />
+      <workItem from="1693994666404" duration="282000" />
+      <workItem from="1693995745973" duration="3004000" />
+      <workItem from="1694001124930" duration="3666000" />
+      <workItem from="1694142554632" duration="789000" />
+      <workItem from="1694144102645" duration="4010000" />
+      <workItem from="1694149220885" duration="461000" />
+      <workItem from="1694149691358" duration="6222000" />
+      <workItem from="1694156100673" duration="103000" />
+      <workItem from="1694156594118" duration="571000" />
+      <workItem from="1694157182204" duration="6000" />
+      <workItem from="1694406300454" duration="19000" />
+      <workItem from="1694406479516" duration="3000" />
+      <workItem from="1695023951420" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="qwer">
       <created>1689143786403</created>
@@ -351,7 +677,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693195872318</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change">
+      <option name="closed" value="true" />
+      <created>1693798652794</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1693798652794</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,26 +713,35 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Fayllar$dispatcher.coverage" NAME="dispatcher Coverage Results" MODIFIED="1693784216450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/bot" />
     <SUITE FILE_PATH="coverage/Fayllar$test_handler.coverage" NAME="test_handler Coverage Results" MODIFIED="1693785214862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot/handlers" />
-    <SUITE FILE_PATH="coverage/Fayllar$util.coverage" NAME="util Coverage Results" MODIFIED="1693783952388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/utils" />
     <SUITE FILE_PATH="coverage/Python$vazifa1.coverage" NAME="3_data_time Coverage Results" MODIFIED="1687155984976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$test.coverage" NAME="test Coverage Results" MODIFIED="1694146209839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Oxirgi_bot/fit_bot" />
     <SUITE FILE_PATH="coverage/Fayllar$redis_.coverage" NAME="redis_ Coverage Results" MODIFIED="1693354252752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars8/redis_" />
-    <SUITE FILE_PATH="coverage/Fayllar$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1693376929190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/send_email" />
+    <SUITE FILE_PATH="coverage/Fayllar$engine_.coverage" NAME="engine_ Coverage Results" MODIFIED="1693807880209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars10" />
     <SUITE FILE_PATH="coverage/Fayllar$task.coverage" NAME="task Coverage Results" MODIFIED="1693373837049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_" />
     <SUITE FILE_PATH="coverage/Fayllar$translate.coverage" NAME="translate Coverage Results" MODIFIED="1693357285073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Translate" />
+    <SUITE FILE_PATH="coverage/Fayllar$buttons__1_.coverage" NAME="buttons (1) Coverage Results" MODIFIED="1694150850804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/fitnes_bot" />
     <SUITE FILE_PATH="coverage/vazifa1_py$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1689143208311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Imtihon" />
     <SUITE FILE_PATH="coverage/vazifa1_py$Leetcode_array.coverage" NAME="email_ Coverage Results" MODIFIED="1687761122686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3/Emailga xabar yuborish" />
-    <SUITE FILE_PATH="coverage/Fayllar$main.coverage" NAME="main Coverage Results" MODIFIED="1693786065532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot" />
-    <SUITE FILE_PATH="coverage/vazifa1_py$9_os.coverage" NAME="9_os Coverage Results" MODIFIED="1688968073394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
-    <SUITE FILE_PATH="coverage/Fayllar$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1693374733191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_" />
+    <SUITE FILE_PATH="coverage/Fayllar$main.coverage" NAME="main Coverage Results" MODIFIED="1694153042580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz" />
+    <SUITE FILE_PATH="coverage/Fayllar$tg_bot.coverage" NAME="tg_bot Coverage Results" MODIFIED="1694154423379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/daryo_uz" />
     <SUITE FILE_PATH="coverage/Fayllar$dispatcher__1_.coverage" NAME="dispatcher (1) Coverage Results" MODIFIED="1693786196347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/MathBot/bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$mainmisol.coverage" NAME="mainmisol Coverage Results" MODIFIED="1693984681662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fayllar$111.coverage" NAME="111 Coverage Results" MODIFIED="1692746125391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars1" />
+    <SUITE FILE_PATH="coverage/Fayllar$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1694156622400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/fitnes_bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$models__1_.coverage" NAME="models (1) Coverage Results" MODIFIED="1694149811179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/fit_bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$util.coverage" NAME="util Coverage Results" MODIFIED="1693783952388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/celery_/MathBot/utils" />
+    <SUITE FILE_PATH="coverage/Fayllar$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1693376929190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/send_email" />
+    <SUITE FILE_PATH="coverage/Fayllar$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1694149333683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/Oxirgi_bot/fit_bot" />
+    <SUITE FILE_PATH="coverage/vazifa1_py$9_os.coverage" NAME="9_os Coverage Results" MODIFIED="1688968073394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
+    <SUITE FILE_PATH="coverage/Fayllar$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1694155237138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/kundalik_com" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="vazifa1 Coverage Results" MODIFIED="1687007443123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
     <SUITE FILE_PATH="coverage/Fayllar$Vmain.coverage" NAME="Vmain Coverage Results" MODIFIED="1693368016874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars8" />
-    <SUITE FILE_PATH="coverage/Fayllar$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1692746171207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars5/simple_bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$models.coverage" NAME="models Coverage Results" MODIFIED="1694150854358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/fitnes_bot" />
+    <SUITE FILE_PATH="coverage/Fayllar$imtihon_modul4.coverage" NAME="imtihon_modul4 Coverage Results" MODIFIED="1694004111561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fayllar$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1694154294268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dilshod_aka/2_p14group/module_5/tg_bot/lesson_4/Beautiful_Soup" />
     <SUITE FILE_PATH="coverage/vazifa1_py$main.coverage" NAME="main Coverage Results" MODIFIED="1688972321557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
     <SUITE FILE_PATH="coverage/Fayllar$videobot.coverage" NAME="videobot Coverage Results" MODIFIED="1693456450665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fayllar$111.coverage" NAME="111 Coverage Results" MODIFIED="1692746125391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars1" />
     <SUITE FILE_PATH="coverage/Fayllar$USB_FORMAT.coverage" NAME="USB_FORMAT Coverage Results" MODIFIED="1693201774856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/vazifa1_py$Vazifa2.coverage" NAME="Vazifa2 Coverage Results" MODIFIED="1687243517848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_3" />
-    <SUITE FILE_PATH="coverage/Fayllar$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1693376942862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Modul_5/dars9/send_email" />
   </component>
 </project>
